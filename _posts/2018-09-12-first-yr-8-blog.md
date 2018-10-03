@@ -1,5 +1,5 @@
 ---
-title: first yr 8 blog
+title: Going through code academy
 layout: post
 author: barnaby.robertson
 permalink: /first-yr-8-blog/
@@ -9,9 +9,9 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>Starting to make a new blog/ repository</td>
+    <td>Working through code academy.</td>
     <td>Date</td>
-    <td>01/01/01</td>
+    <td>3/10/18</td>
   </tr>
 </table>
 
@@ -19,11 +19,11 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>We , at first deleted our previous blogs and repository so we were starting from scratch</td>
+    <td>We previously have made our way through the levels</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To have created and set up a stable website ready to start uploading this to</td>
+    <td>To work through code academy.</td>
   </tr>
   <tr>
     <td>Did I reach my target? </td>
@@ -43,19 +43,19 @@ published: true
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td>Also because we had a new student present i had to instead of questioning the teacher question those around me.</td>
+    <td>Also because we had a new student present i had to question my peers instead of questioning the teacher question those around me.</td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td>Also in the same situation i sometimes could not ask antone and has to be independent</td>
+    <td>Also in the same situation i sometimes could not ask anyone and had to be independent</td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td>When my blog was not working i had to reflect and understand wy it wasn't working</td>
+    <td>When the levels were not working i had to reflect and understand why it wasn't working</td>
   </tr>
   <tr>
     <td>Engagement</td>
-    <td>Gd gd</td>
+    <td>Gd </td>
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
